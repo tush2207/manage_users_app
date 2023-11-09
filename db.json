@@ -2,57 +2,57 @@
   "users": [
     {
       "id": 1,
-      "name": "Aktush",
-      "email": "aktush@gmail.com",
-      "mobile_no": "257487427",
+      "name": "Riya",
+      "email": "riya@gmail.com",
+      "mobile_no": "9856321472",
       "status": "Inactive"
     },
     {
-      "name": "Tush",
-      "email": "tusharkasbe2207@gmail.com",
-      "mobile_no": "9819400173",
+      "name": "Neha Kanojiya",
+      "email": "neha@gmail.com",
+      "mobile_no": "8529637410",
       "id": 2,
       "status": "Active"
     },
     {
-      "name": "Akshu",
-      "email": "akshu@gmail.com",
-      "mobile_no": "9082196134",
+      "name": "Mrunal",
+      "email": "mrunal@gmail.com",
+      "mobile_no": "7419638520",
       "id": 3,
       "status": "Active"
     },
     {
-      "name": "tushar",
-      "email": "tusharkasbe2207@gmail.com",
-      "mobile_no": "987984612",
+      "name": "Vaishu",
+      "email": "vaishu@gmail.com",
+      "mobile_no": "9873216540",
       "status": "Active",
       "id": 5
     },
     {
       "id": 6,
-      "name": "Aktush",
-      "email": "aktush@gmail.com",
-      "mobile_no": "257487427",
+      "name": "Manisha",
+      "email": "Manisha@gmail.com",
+      "mobile_no": "9517534560",
       "status": "Inactive"
     },
     {
-      "name": "Tush",
-      "email": "tusharkasbe2207@gmail.com",
-      "mobile_no": "9819400173",
+      "name": "Aarav",
+      "email": "aarav@gmail.com",
+      "mobile_no": "75582146930",
       "id": 7,
       "status": "Active"
     },
     {
-      "name": "tushta",
-      "email": "tushta@gmail.com",
-      "mobile_no": "88741",
+      "name": "Pratik",
+      "email": "pratil@gmail.com",
+      "mobile_no": "8517429630",
       "id": 9,
       "status": "Inactive"
     },
     {
-      "name": "tushar",
-      "email": "tusharkasbe2207@gmail.com",
-      "mobile_no": "987984612",
+      "name": "Jimmy",
+      "email": "jimmy@gmail.com",
+      "mobile_no": "75396352010",
       "status": "Active",
       "id": 10
     }

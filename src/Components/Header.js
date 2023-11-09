@@ -32,7 +32,7 @@ const Header = () => {
             <span style={{ marginRight: "10px" }}>
               <MDBIcon fas icon="book-open" />
             </span>
-            Contact
+            Manage Users
           </MDBNavbarBrand>
           <MDBNavbarToggler
             aria-controls="navbar"
@@ -55,14 +55,7 @@ const Header = () => {
               <MDBNavbarItem>
                 <MDBNavbarLink className="nav-link">
                   <NavLink to="/addUser" className="text-white">
-                    AddEdit
-                  </NavLink>
-                </MDBNavbarLink>
-              </MDBNavbarItem>
-              <MDBNavbarItem>
-                <MDBNavbarLink className="nav-link">
-                  <NavLink to="userInfo/:id" className="text-white">
-                    UserInfo
+                    Add User
                   </NavLink>
                 </MDBNavbarLink>
               </MDBNavbarItem>
@@ -74,7 +67,7 @@ const Header = () => {
                 </MDBNavbarLink>
               </MDBNavbarItem>
             </MDBNavbarNav>
-            <form className="d-flex input-group w-auto" onSubmit={handleSubmit}>
+            {/* <form className="d-flex input-group w-auto" onSubmit={handleSubmit}>
               <input
                 type="text"
                 className="form-control"
@@ -85,15 +78,15 @@ const Header = () => {
               <MDBBtn color="dark" type="submit ">
                 Search
               </MDBBtn>
-            </form>
-            <MDBBtn
+            </form> */}
+            {/* <MDBBtn
               color="info"
               className="mx-2"
               style={{ marginLeft: "4px" }}
               onClick={() => loadUsersStart()}
             >
               Reset
-            </MDBBtn>
+            </MDBBtn> */}
           </MDBCollapse>
         </MDBContainer>
       </MDBNavbar>
